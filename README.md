@@ -54,5 +54,25 @@ _<h3>Pesquisando e Filtrando Anúncios 🎁</h3>_
 
 ---
 
+## 💻 Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/kaiogarcia/marketplace.git
+
+Mobile:
+
+# Instale as dependências
+$ npm install / yarn install
+# Execute a aplicação em modo de desenvolvimento
+$ npm start / npx expo start
+
+```
+
+
 <div id="footer" align="center"><a href="https://www.linkedin.com/in/kaio-vinicius-de-oliveira-garcia-85b4b3118/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:kaiogarciav@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></div>
